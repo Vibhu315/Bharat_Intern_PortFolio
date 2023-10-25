@@ -97,21 +97,13 @@ strong{
     width: 100%;
    border-radius: 30%;
 }
-.home button{
-    padding-left: 20px;
-    padding-top: 10px;
-    padding-right: 20px;
-    padding-bottom: 10px;
-    color:white;
-    background-color:#00abf0;
-    font-size: 15px;
-    font-weight: bold;
-    border-radius: 10px;
-    box-shadow: none;
-    border: none;
-    cursor: pointer;
-    align-items: center;
-    /* margin-left: 35%; */
+.social{
+   
+    margin-right: 3px;
+    display: inline;
+    color:#00abf0;
+    
+    font-size:25px;
 }
 .container2 {
     height: 715px;
